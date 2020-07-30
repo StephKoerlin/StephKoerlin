@@ -1,4 +1,4 @@
-#Hiya!
+# Hiya!
 
 My name is Stephanie, or Steph if you prefer, and I am somewhat new to the world of IT and the cloud. I have done a lot of studying to be here!
 All that study has paid off though. I have passed my AWS Solutions Architect - Associate and completed a fairly in depth project to solidify all that knowledge. 
