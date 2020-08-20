@@ -1,11 +1,12 @@
 # Hiya!
 
 My name is Stephanie, or Steph if you prefer, and I am somewhat new to the world of IT and the cloud. I have done a lot of studying to be here!
-All that study has paid off though. I have passed my AWS Solutions Architect - Associate and completed a fairly in depth project to solidify all that knowledge. 
-You can find my resume project, which includes my blog set up, as one of my repos. Unless it is before July 31st, 2020, in which case I am 
-keeping things hidden till others have had a chance to complete the challenge before the deadline. 
+All that study has paid off though. I have passed my AWS Solutions Architect - Associate and completed an in depth project to solidify all that knowledge. 
+You can find my resume project, which includes my blog set up as well, in my repos.
 
-- 🤔 I’m looking for help to land a job. Any tips, challenges or advice is welcome.
+- 🤔 I’m looking for help to land that first job. Any tips, challenges or advice is welcome.
+
+- 🌱 I’m currently learning Docker.
 
 - 📫 How to reach me:
     - Email: stephanie.koerlin@gmail.com
