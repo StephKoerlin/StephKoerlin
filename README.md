@@ -1,12 +1,10 @@
 # Hiya!
 
-My name is Stephanie, or Steph if you prefer, and I am somewhat new to the world of IT and the cloud. I have done a lot of studying to be here!
-All that study has paid off though. I have passed my AWS Solutions Architect - Associate and completed an in depth project to solidify all that knowledge. 
-You can find my resume project, which includes my blog set up as well, in my repos.
+My name is Stephanie, or Steph if you prefer, and I am making my way further and further in to the world of IT and the cloud. I have done a lot of studying to be here! All that study has paid off though. I was recently hired for iRobot, I have passed my AWS Solutions Architect - Associate and completed an in depth project to solidify all that knowledge. You can find my resume project, which includes my blog set up as well, in my repos.
 
-- 🤔 I’m looking for help to land that first job. Any tips, challenges or advice is welcome.
+- 😄 I am proud to be iRobot's new Associate Cloud Engineer!
 
-- 🌱 I’m currently learning Docker.
+- 🌱 I’m currently learning Python, CodeBuild, CodePipeline, CloudFormation.
 
 - 📫 How to reach me:
     - Email: stephanie.koerlin@gmail.com
